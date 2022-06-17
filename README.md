@@ -1,1 +1,3 @@
 # ExerciseAutoTest
+
+ok
